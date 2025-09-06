@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>우아한 착장단 모집</title>
+    <title>우아한 옷장연대</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700&display=swap');
         
@@ -340,157 +340,157 @@
 
     <div class="container">
         <div class="hero">
-            <h1><span class="emoji">⚡</span> 우아한 착장단 <span class="emoji">⚡</span></h1>
-            <div class="subtitle">"니들이 안 입어주면 우리가 입고 평가하겠어!"</div>
+            <h1><span class="emoji">✨</span> 우아한 옷장연대 <span class="emoji">✨</span></h1>
+            <div class="subtitle">"같이 실패하고, 같이 웃고, 같이 성장하는 패션 커뮤니티"</div>
         </div>
         
         <div class="content">
             <div class="section">
-                <h2><span class="emoji">🔥</span> 우아한 착장단이란?</h2>
+                <h2><span class="emoji">👗</span> 우아한 옷장연대란?</h2>
                 <div class="intro-box">
                     <p>
-                        <strong>66, 77, 88 사이즈의 집단지성 착장 평가단!</strong><br>
-                        우리는 모델이 아니에요. <strong>진짜 일상을 사는 여자들의 리얼 착장 평가단</strong>입니다!<br><br>
-                        예쁜 모델들이 안 보여주는 현실 핏을 우리가 직접 입고 평가해서 진실을 밝혀내요!
+                        반짝반짝 잘 입는 패션 인스타그램? 그건 우리 얘기가 아니에요.<br>
+                        여기는 <strong>우아한 옷장연대</strong>입니다! ✨<br><br>
+                        저 혼자만의 패션 성공담이 아니라, <strong>66·77·88 현실 사이즈의 실패담, 반품담, 좌절담</strong>을 모두가 함께 꺼내놓는 자리예요.
                     </p>
                 </div>
             </div>
             
             <div class="section">
-                <h2><span class="emoji">💪</span> 우아한 착장단이 하는 일</h2>
+                <h2><span class="emoji">💡</span> 옷장연대에서 하는 일</h2>
                 <div class="cards-grid">
                     <div class="card">
-                        <h3><span class="card-icon">🔍</span> 리얼 핏 체크</h3>
+                        <h3><span class="card-icon">❌</span> 솔직한 실패담 나누기</h3>
                         <ul class="benefit-list">
-                            <li>예쁜 모델들이 안 보여주는 뒷모습까지 공개</li>
-                            <li>앉았을 때, 걸을 때, 팔 올릴 때 실제 착용감</li>
-                            <li>66, 77, 88 사이즈별 착용 비교</li>
-                            <li>"광고와 다른데?" 솔직한 현실 체크</li>
+                            <li>실패템, 반품템 솔직히 자랑하기</li>
+                            <li>망한 것도 기록하면 콘텐츠!</li>
+                            <li>"이거 왜 샀을까?" 후회 스토리</li>
+                            <li>브랜드별 실패 경험 공유</li>
                         </ul>
                     </div>
                     
                     <div class="card">
-                        <h3><span class="card-icon">⚡</span> 브랜드 사기 척결</h3>
+                        <h3><span class="card-icon">🗳️</span> 함께 결정하기</h3>
                         <ul class="benefit-list">
-                            <li>브랜드별 사이즈 사기 폭로 작전</li>
-                            <li>"66사이즈인데 77 같아요" 솔직 고발</li>
-                            <li>광고 모델 vs 우리가 입었을 때 비교</li>
-                            <li>소비자를 위한 진실 규명</li>
+                            <li>"살까? 반품할까?" 투표로 같이 결정</li>
+                            <li>애매한 옷들 집단 판단</li>
+                            <li>구매 전 미리 물어보기</li>
+                            <li>실시간 고민 상담</li>
                         </ul>
                     </div>
                     
                     <div class="card">
-                        <h3><span class="card-icon">🧠</span> 집단지성 활용</h3>
+                        <h3><span class="card-icon">👭</span> 공감과 연대</h3>
                         <ul class="benefit-list">
-                            <li>여러 체형이 함께 착용해서 데이터 축적</li>
-                            <li>"이 옷 살까 말까?" 집단 판단</li>
-                            <li>착장 고민 함께 해결</li>
-                            <li>66, 77, 88의 진짜 후기 데이터베이스</li>
+                            <li>같은 체형, 같은 고민을 가진 언니들과 소통</li>
+                            <li>현실적인 조언과 위로</li>
+                            <li>패션 고민 함께 해결</li>
+                            <li>가끔은 득템템 자랑도!</li>
                         </ul>
                     </div>
                 </div>
             </div>
             
             <div class="section">
-                <h2><span class="emoji">🎁</span> 우아한 착장단의 혜택</h2>
+                <h2><span class="emoji">🎯</span> 연대의 특별함</h2>
                 <div class="highlight-box">
-                    <h3><span class="emoji">👚</span> 의상 혜택</h3>
+                    <h3><span class="emoji">💫</span> 완벽하지 않아서 더 진짜</h3>
                     <ul class="benefit-list">
-                        <li><strong>마음에 든 착샷 옷 무료 증정</strong> (월 1-2벌)</li>
-                        <li>신상품 우선 체험 기회</li>
-                        <li>브랜드 협찬 아이템 무료 제공</li>
-                        <li>집단지성 참여로 얻는 뿌듯함과 성취감</li>
-                        <li>진짜 도움되는 착장 정보 공유의 기쁨</li>
+                        <li><strong>실패도 함께 나누니까</strong> 부담 없어요</li>
+                        <li>비슷한 고민을 가진 사람들과의 진짜 소통</li>
+                        <li>공동 득템으로 함께 기뻐하기</li>
+                        <li>혼자가 아닌 함께의 힘</li>
+                        <li>현실적이고 솔직한 패션 이야기</li>
                     </ul>
                 </div>
             </div>
             
             <div class="section">
-                <h2><span class="emoji">📋</span> 모집 대상</h2>
+                <h2><span class="emoji">🌈</span> 이런 분들을 기다려요</h2>
                 <div class="target-section">
                     <div class="target-grid">
                         <div class="target-card">
-                            <h4><span class="emoji">💝</span> 자격요건</h4>
-                            <p>66, 77, 88 사이즈<br>솔직함 레벨 MAX</p>
+                            <h4><span class="emoji">💝</span> 현실 사이즈</h4>
+                            <p>66, 77, 88<br>현실적인 고민 보유자</p>
                         </div>
                         
                         <div class="target-card">
-                            <h4><span class="emoji">💪</span> 성격</h4>
-                            <p>예쁜 모델 보고<br>속 터진 경험 有</p>
+                            <h4><span class="emoji">😅</span> 실패 경험</h4>
+                            <p>온라인 쇼핑<br>실패담 풍부</p>
                         </div>
                         
                         <div class="target-card">
-                            <h4><span class="emoji">🌍</span> 지역</h4>
-                            <p>전국 어디서나<br>온라인 활동</p>
+                            <h4><span class="emoji">💬</span> 소통 의지</h4>
+                            <p>함께 고민하고<br>함께 성장하고픈 마음</p>
                         </div>
                         
                         <div class="target-card">
-                            <h4><span class="emoji">🔥</span> 의지</h4>
-                            <p>집단지성 참여<br>의지 활활</p>
+                            <h4><span class="emoji">✨</span> 솔직함</h4>
+                            <p>완벽하지 않아도<br>진짜 이야기 나눌 용기</p>
                         </div>
                     </div>
                     
                     <div class="intro-box" style="margin-top: 30px;">
-                        <h4 style="color: #8e6a5b; margin-bottom: 15px;"><span class="emoji">⚠️</span> 이런 분은 환영해요!</h4>
+                        <h4 style="color: #8e6a5b; margin-bottom: 15px;"><span class="emoji">💡</span> 이런 마음이시라면 환영!</h4>
                         <p style="font-size: 1em;">
-                            "나도 저거 입으면 저럴까?" 의심 많은 분 • "이거 광고랑 다른데?" 솔직한 분<br>
-                            온라인 쇼핑 실패 경험 풍부한 분 • 집단지성으로 진실 찾고 싶은 분
+                            "나만 이런 고민 하나?" 궁금한 분 • "혼자 결정하기 어려워요" 우유부단한 분<br>
+                            "실패담도 누군가에겐 도움이 될 텐데" 나눔의 마음 있는 분 • "함께하면 더 재밌을 것 같아" 연대 정신 있는 분
                         </p>
                     </div>
 
                     <div class="intro-box" style="margin-top: 20px; background: #fff5f5; border: 2px solid #fed7d7;">
-                        <h4 style="color: #c53030; margin-bottom: 15px;"><span class="emoji">🚫</span> 이런 분은 안 맞아요!</h4>
+                        <h4 style="color: #c53030; margin-bottom: 15px;"><span class="emoji">🙅‍♀️</span> 이런 건 아니에요!</h4>
                         <p style="font-size: 1em; color: #c53030;">
-                            모델 지망생 • 완벽한 몸매 보유자 • 솔직하지 못한 분 • 광고성 후기 쓰는 분
+                            완벽한 코디만 보여주는 곳 • 브랜드 홍보성 후기 • 가르치려는 마음 • 남의 실패를 비웃는 마음
                         </p>
                     </div>
                 </div>
             </div>
             
             <div class="section">
-                <h2><span class="emoji">💫</span> 우아한 착장단만의 특별함</h2>
+                <h2><span class="emoji">🤗</span> 우아한 옷장연대의 약속</h2>
                 <div class="cards-grid">
                     <div class="card">
-                        <h3><span class="card-icon">🎯</span> 진짜 소비자 관점</h3>
-                        <p>광고가 아닌 진짜 사용자 관점으로, "이거 사면 안 돼요" 솔직 경고까지!</p>
+                        <h3><span class="card-icon">🫂</span> 서로 응원하기</h3>
+                        <p>실패도 성공도 함께 나누며, 서로를 격려하고 응원하는 따뜻한 공간을 만들어요.</p>
                     </div>
                     
                     <div class="card">
-                        <h3><span class="card-icon">⚡</span> 반항 정신</h3>
-                        <p>"모델만 예뻐 보이는 옷은 거부한다!" 우리만의 패션 혁명 정신!</p>
+                        <h3><span class="card-icon">💯</span> 솔직하게 소통</h3>
+                        <p>가식 없는 진짜 이야기로 서로에게 진짜 도움이 되는 커뮤니티를 지향해요.</p>
                     </div>
                     
                     <div class="card">
-                        <h3><span class="card-icon">🔥</span> 집단지성의 힘</h3>
-                        <p>혼자서는 몰랐던 것들을 함께 발견하고, 서로 도움되는 진짜 정보 공유!</p>
+                        <h3><span class="card-icon">🌱</span> 함께 성장하기</h3>
+                        <p>혼자서는 해결하기 어려운 고민들을 함께 풀어가며 모두가 성장하는 공간이에요.</p>
                     </div>
                 </div>
             </div>
         </div>
         
         <div class="cta-section">
-            <h2><span class="emoji">⚡</span> 우아한 착장 혁명을 일으켜요!</h2>
+            <h2><span class="emoji">🤝</span> 우아한 옷장연대에 함께해요!</h2>
             <p style="font-size: 1.2em; margin-bottom: 30px; line-height: 1.8;">
-                우아한 착장단은 단순한 모델 활동이 아니에요.<br>
-                66, 77, 88 사이즈도 충분히 멋져 보일 수 있다는 걸<br>
-                우리가 직접 증명하는 <strong>우아한 패션 혁명</strong>이에요!
+                옷장연대는 완벽한 코디쇼가 아닙니다.<br>
+                <strong>같이 실패하고, 같이 웃고, 같이 성장하는 패션 커뮤니티</strong>입니다.<br><br>
+                혼자 끙끙 앓던 패션 고민, 이제 함께 나눠봐요!
             </p>
             
             <div style="margin: 30px 0;">
-                <h3 style="color: white; margin-bottom: 15px;"><span class="emoji">🔥</span> 첫 번째 우아한 착장단은 10명 한정!</h3>
-                <p style="opacity: 0.9;">"니들이 안 입어주면 우리가 입고 평가하겠어!" 함께 외칠 용감한 착장단을 찾습니다!</p>
+                <h3 style="color: white; margin-bottom: 15px;"><span class="emoji">💌</span> 진짜 동지들을 찾습니다!</h3>
+                <p style="opacity: 0.9;">완벽하지 않아도 괜찮아요. 오히려 그래서 더 진짜예요!</p>
             </div>
             
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdzqwD9GonftP04XxSiEyrmfiXL_BZ3lx6qzMhdEV18ejHVng/viewform?usp=header" target="_blank" class="cta-button"><span class="emoji">⚡</span> 우아한 착장단 지원하기</a>
-            <a href="https://open.kakao.com/o/sDgPLSIh" target="_blank" class="cta-button"><span class="emoji">💬</span> 문의하기</a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdzqwD9GonftP04XxSiEyrmfiXL_BZ3lx6qzMhdEV18ejHVng/viewform?usp=header" target="_blank" class="cta-button"><span class="emoji">🤗</span> 옷장연대 참여하기</a>
+            <a href="https://open.kakao.com/o/sDgPLSIh" target="_blank" class="cta-button"><span class="emoji">💬</span> 궁금한 점 문의하기</a>
         </div>
         
         <div class="quote-section">
             <div class="quote-text">
-                "모델들이 보여주지 않는 진실,<br>
-                우리가 직접 입고 평가해서 세상에 알리자!"
+                "혼자서는 실패였던 것들이<br>
+                함께하니 소중한 경험이 되었어요"
             </div>
-            <div class="quote-author">- 우아한 착장단 대표 노바 <span class="emoji">⚡</span></div>
+            <div class="quote-author">- 우아한 옷장연대 회원들의 마음 <span class="emoji">✨</span></div>
         </div>
     </div>
     
